@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SLMD600H10L
+D portable solar cell
+K Solar cell
+$ENDCMP
+#
 #End Doc Library
