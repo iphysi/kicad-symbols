@@ -5,4 +5,10 @@ D portable solar cell
 K Solar cell
 $ENDCMP
 #
+$CMP conn02*08
+D Generic shielded connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 #End Doc Library
